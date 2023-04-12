@@ -1,14 +1,14 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-int main () {
+int main() {
     char ch;
 
-    printf("\nDigiteuma letra de 'a' a 'z': ");
+    printf("\nDigite uma letra de 'a' a 'z': ");
     scanf("%c", &ch);
 
     if (ch >= 'a' && ch <= 'z') {
-        printf ("\nVoce digitou uma letra minuscula");
+        printf("\nVoce digitou uma letra minuscula");
     }
     return 0;
 }
