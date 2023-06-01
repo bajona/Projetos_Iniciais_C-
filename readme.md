@@ -1,1 +1,3 @@
-Projetos Iniciais em linguagem C, criados no ínicio dos meus estudos para aprender mais da lógica e do funcionamento da linguagem.
+Criei projetos iniciais em linguagem C no início dos meus estudos para aprender mais sobre a lógica e o funcionamento da linguagem, pasta desatualizada*, já foram aprendidos diversos novos funcionamentos da linguagem, como estruturas de repetição, laçoes, vetores e matrizes, prometo atualizar assim que possível!😁
+
+A linguagem C é uma das linguagens de programação mais antigas e populares do mundo. Ela é usada em inúmeros programas e equipamentos, desde sistemas operacionais até grandes jogos do mercado atual, editores de imagem e vídeo, robôs e sistemas de automação. Além disso, muitos sistemas operacionais são programados totalmente ou parcialmente em C, como o Windows, o Linux e o Mac OS
